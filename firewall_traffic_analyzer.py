@@ -31,7 +31,7 @@ elif port == 443:
 
 else:
     print("Risk Assessment: UNKNOWN: Unrecognized traffic pattern.")
-
+print("------------------------")
 
 
 
